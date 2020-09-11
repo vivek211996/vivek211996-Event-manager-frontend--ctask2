@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Solway:wght@300&display=swap');
+body{
+    font-family: 'Solway', serif; 
+    background-image: url("https://www.wallpaperflare.com/static/542/50/545/simple-background-blue-simple-minimalism-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

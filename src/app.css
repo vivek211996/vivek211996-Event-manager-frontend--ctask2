@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Long+Cang&display=swap');
+
+.content{
+  text-align: center;
+  width: 40%;
+  border-radius: 10px;
+}
+
+div{
+  font: bold;
+  font-size: large;
+  margin: 10px;
+  padding:10px;
+}
+
+input{
+  width: 80%;
+  background: linear-gradient(to bottom, #ffffff 0%, #ffffcc 100%);
+}
+
+#btn,#btn1{
+  font-size: 24px;
+  font-weight: bolder;
+  background: linear-gradient(to bottom, #ffffff 0%, #ffffcc 100%);
+  border-radius: 5px;
+  width: 40%;
+}
+
+.heading{
+  font-family: 'Long Cang', cursive;
+  font-size: 45px;
+  font-weight: bold;
+  color: antiquewhite;
+ 
+}
+
+.mainheading{
+  color: antiquewhite;
+  font-family: 'Long Cang', cursive;
+  font-size: 60px;
+}
